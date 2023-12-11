@@ -159,4 +159,4 @@ Ifunanyachukwu Sunday - [Github](https://github.com/nanyamax)
 
 Second part of Airbnb: 
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copyright protection. 
